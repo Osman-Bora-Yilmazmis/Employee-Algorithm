@@ -1,0 +1,5 @@
+piece Ali Veli 11112222 100 5
+piece Mutlu Demir 33445566 250 8
+hourly Can Tuz 88889999 40 50
+hourly Ayse Can 33337777 20 100
+piece Cem Tunc 66665555 500 10
